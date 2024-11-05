@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ozozeida.github.io/SWd/sitemap_index.txt
+Sitemap: https://ozozeida.github.io/fqJ/sitemap_index.txt
+Sitemap: https://ozozeida.github.io/guJ/sitemap_index.txt
+Sitemap: https://ozozeida.github.io/skd/sitemap_index.txt
